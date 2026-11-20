@@ -1,0 +1,27 @@
+# Evaluation set for the sample documents.
+# expect: {file, page} = the passage that answers it must be retrieved (top 3)
+# expect: refuse        = the documents don't cover it; the bot must decline
+- question: What is the refund period for annual plans?
+  expect: {file: northwind_terms.pdf, page: 1}
+- question: Can I get a refund on a monthly plan?
+  expect: {file: northwind_terms.pdf, page: 1}
+- question: How long are backups kept?
+  expect: {file: northwind_terms.pdf, page: 2}
+- question: Where is customer data stored?
+  expect: {file: northwind_terms.pdf, page: 2}
+- question: What happens if uptime falls below the target?
+  expect: {file: northwind_terms.pdf, page: 2}
+- question: When is live chat support available?
+  expect: {file: northwind_terms.pdf, page: 3}
+- question: Can administrators require two-factor authentication?
+  expect: {file: northwind_terms.pdf, page: 3}
+- question: How much does the Team plan cost per user?
+  expect: {file: northwind_pricing.pdf, page: 1}
+- question: How much is extra storage?
+  expect: {file: northwind_pricing.pdf, page: 1}
+- question: Do you offer an on-premise installation?
+  expect: refuse
+- question: Who is the CEO of Northwind?
+  expect: refuse
+- question: Is there a discount for students?
+  expect: refuse

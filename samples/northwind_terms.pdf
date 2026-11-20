@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 676 >>
+stream
+BT /F1 11 Tf 15 TL 56 790 Td
+(Northwind Cloud - Terms of Service \(fictional sample\)) Tj T*
+() Tj T*
+(1. Plans and billing) Tj T*
+(Northwind Cloud offers a monthly plan and an annual plan.) Tj T*
+(Monthly plans are billed on the same day each month.) Tj T*
+(Annual plans are billed once per year and include two free months.) Tj T*
+(Prices are shown without tax. Tax is added at checkout where required.) Tj T*
+() Tj T*
+(2. Refunds) Tj T*
+(Annual plans can be refunded in full within 14 days of purchase.) Tj T*
+(Monthly plans are not refundable, but you can cancel at any time.) Tj T*
+(After cancellation, the service stays active until the end of the paid period.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 599 >>
+stream
+BT /F1 11 Tf 15 TL 56 790 Td
+(3. Data and backups) Tj T*
+(Customer data is stored in the EU region by default.) Tj T*
+(Backups are taken every 24 hours and kept for 30 days.) Tj T*
+(You can export all of your data as JSON from the settings page.) Tj T*
+(When an account is closed, data is deleted within 60 days.) Tj T*
+() Tj T*
+(4. Service availability) Tj T*
+(Northwind Cloud targets 99.9 percent monthly uptime for paid plans.) Tj T*
+(Planned maintenance is announced at least 72 hours in advance.) Tj T*
+(If uptime falls below the target, customers receive a 10 percent service credit.) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 586 >>
+stream
+BT /F1 11 Tf 15 TL 56 790 Td
+(5. Support) Tj T*
+(Support is available by email on all plans.) Tj T*
+(Business plans also include live chat from 9:00 to 18:00 CET on weekdays.) Tj T*
+(The first response time is within one business day for email.) Tj T*
+(Critical incidents on Business plans receive a response within 2 hours.) Tj T*
+() Tj T*
+(6. Account security) Tj T*
+(Two-factor authentication can be enabled for every user.) Tj T*
+(Administrators can require two-factor authentication for the whole team.) Tj T*
+(Password resets are sent only to the verified email address.) Tj T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000924 00000 n 
+0000001050 00000 n 
+0000001700 00000 n 
+0000001826 00000 n 
+0000002463 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2589
+%%EOF

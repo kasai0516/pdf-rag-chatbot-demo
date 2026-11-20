@@ -1,0 +1,4 @@
+pypdf>=4.0
+PyYAML>=6.0
+# optional, for RAGDEMO_USE_CLAUDE=1:
+# anthropic
